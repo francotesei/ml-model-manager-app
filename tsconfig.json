@@ -1,5 +1,5 @@
 {
-"compilerOptions": {
+  "compilerOptions": {
     "baseUrl": ".",
     "outDir": "build/dist",
     "module": "esnext",
@@ -17,7 +17,7 @@
     "importHelpers": true,
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": true
   },
   "exclude": [
     "node_modules",

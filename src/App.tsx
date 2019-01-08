@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './App.css';
-import Table from './components/Table';
 import Navbar from './components/Navbar';
+import Table from './components/Table';
 
 class App extends React.Component {
   public render() {
@@ -9,7 +9,6 @@ class App extends React.Component {
       <div className="App">
         <Navbar />
         <Table />
-       
       </div>
     );
   }
